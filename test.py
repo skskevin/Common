@@ -5,7 +5,7 @@
 # @Version : 1.0
 # @Desc : 测试
 import binascii
-from function import *
+from common import *
 from Crypto.Cipher import AES
 
 id = 48
